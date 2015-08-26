@@ -1,4 +1,4 @@
 class lam {
 
-notify { 'No resources in this class  !!!!' :}
+notify { 'No resources in this class ! !!!!' :}
 }
